@@ -33,6 +33,7 @@ I think that using this approach, we can successfully accomplish the target task
 - [ ] Correct the collator in the dataset. [code](https://github.com/0417keito/UTAUTAI/blob/main/utautai/dataset/collate.py)
 - [ ] Complete the StyleModule inference code. [code](https://github.com/0417keito/UTAUTAI/blob/main/utautai/prompt_tts/style_module.py#L51)
 - [ ] Other minor code fixes, such as masking strategies.
+- [ ] Eliminate the diffusion model and adapt the consistency model.
 
 ## 🙏Appreciation
 - [SPEAR TTS paper](https://arxiv.org/abs/2302.03540)
